@@ -46,8 +46,8 @@ El objetivo es aplicar los fundamentos de Node.js para desarrollar servicios web
 ## Instalación
 
 ```bash
-git clone <https://github.com/alex0726649/Tarea3-Desarrollo-de-ServiciosWeb.git>
-cd Tarea3
+git clone git@github.com:alex0726649/Tarea3-Desarrollo-de-ServiciosWeb.git o https://github.com/alex0726649/Tarea3-Desarrollo-de-ServiciosWeb.git
+cd "Tarea3-Desarrollo-de-ServiciosWeb/Tarea 3"
 npm install
 ```
 
@@ -127,7 +127,7 @@ ESLint utiliza las reglas recomendadas para JavaScript mediante la configuració
 ## Estructura general del proyecto
 
 ```text
-Tarea3/
+Tarea 3/
 |-- eslint.config.js
 |-- package.json
 |-- plantilla_readme(1).md
