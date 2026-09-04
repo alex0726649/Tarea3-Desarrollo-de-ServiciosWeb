@@ -46,7 +46,7 @@ El objetivo es aplicar los fundamentos de Node.js para desarrollar servicios web
 ## Instalación
 
 ```bash
-git clone git@github.com:alex0726649/Tarea3-Desarrollo-de-ServiciosWeb.git o https://github.com/alex0726649/Tarea3-Desarrollo-de-ServiciosWeb.git
+git clone https://github.com/alex0726649/Tarea3-Desarrollo-de-ServiciosWeb.git
 cd "Tarea3-Desarrollo-de-ServiciosWeb/Tarea 3"
 npm install
 ```
